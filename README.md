@@ -14,8 +14,13 @@ This project implements a **Retrieval-Augmented Generation (RAG)** system using 
 ### ✅ Installation Steps
 
 ```bash
-git clone https://github.com/yourusername/rag-system.git
+git clone https://github.com/101rror/RAGsystem.git
 cd rag-system
+code
+
+create .env file and add OPENAI_API_KEY from https://openai.com/api/
+and add it like OPENAI_API_KEY=api
+
 
 # Create virtual environment
 python -m venv venv
@@ -71,5 +76,3 @@ pip install -r requirements.txt
       <li>Add prompt engineering or RAG tuning</li>
     </ul>
   </div>
-
-
