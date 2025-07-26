@@ -1,17 +1,17 @@
-# 📘 Multilingual RAG System (English + Bangla)
+# RAG System (English + Bangla)
 
 This project implements a **Retrieval-Augmented Generation (RAG)** system using FastAPI that answers user questions in **Bengali and English** by retrieving content from a Bengali literature PDF (`HSC26 Bangla 1st Paper`).
 
 ---
 
-## 🔧 Setup Guide
+## Setup Guide
 
-### ✅ Prerequisites
+### Prerequisites
 - Python 3.9+
 - OpenAI API Key
 - VS Code or any IDE
 
-### ✅ Installation Steps
+### Installation Steps
 
 ```bash
 git clone https://github.com/101rror/RAGsystem.git
@@ -30,6 +30,8 @@ source venv/bin/activate  # or venv\Scripts\activate on Windows
 pip install -r requirements.txt
 ```
 
+
+## Questions answer
 
 <div class="question">1. What method or library did you use to extract the text, and why?</div>
   <div class="answer">
