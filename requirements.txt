@@ -1,0 +1,9 @@
+langchain
+openai
+chromadb
+pypdf
+sentence-transformers
+fastapi
+uvicorn
+python-dotenv
+scikit-learn
