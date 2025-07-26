@@ -1,7 +1,7 @@
 # RAG System (English + Bangla)
 
 <p>
-  This project implements a <strong>Retrieval-Augmented Generation (RAG)</strong> system using FastAPI that answers user questions in <strong>Bengali and English</strong> by retrieving content from a Bengali literature PDF <a href="https://drive.google.com/file/d/19h7t3xVNBS5KR9o2sLMh3i2uaje7ww7n/view?usp=drive_link" target="_blank">HSC26 Bangla 1st Paper</a>
+  This project implements a <strong>Retrieval-Augmented Generation (RAG)</strong> system using FastAPI that answers user questions in <strong>Bengali and English</strong> by retrieving content from <a href="https://drive.google.com/file/d/19h7t3xVNBS5KR9o2sLMh3i2uaje7ww7n/view?usp=drive_link" target="_blank">HSC26 Bangla 1st Paper Book PDF</a>
 </p>
 
 
